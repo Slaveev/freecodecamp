@@ -12,5 +12,5 @@ If the function is given the optional starting day of the week parameter, then t
 Below are some examples of different cases the function should handle. Pay close attention to the spacing and punctuation of the results.![free](https://github.com/Slaveev/freecodecamp/assets/114510055/5a8361fb-470f-4312-97d1-a35e566531b7)
 
 
-![free](https://github.com/Slaveev/freecodecamp/assets/114510055/0b6dd103-d198-4ade-8852-cfe68eb23401)
+
 
